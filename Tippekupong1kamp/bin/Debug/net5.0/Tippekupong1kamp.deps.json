@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tippekupong1kamp/1.0.0": {
+        "runtime": {
+          "Tippekupong1kamp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tippekupong1kamp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

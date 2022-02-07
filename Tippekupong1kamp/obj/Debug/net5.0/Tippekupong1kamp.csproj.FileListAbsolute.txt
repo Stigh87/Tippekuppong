@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\ref\Tippekupong1kamp.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\bin\Debug\net5.0\Tippekupong1kamp.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\ref\Tippekupong1kamp.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.genruntimeconfig.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tippekupong1kamp\Tippekupong1kamp\obj\Debug\net5.0\Tippekupong1kamp.csproj.AssemblyReference.cache
